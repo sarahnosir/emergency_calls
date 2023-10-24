@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const primary = Color(0xFFBA1C04);
+const onPrimary = Color(0xFFFFFFFF);
+const primaryContainer = Color(0xFFFFDAD3);
+const onPrimaryContainer = Color(0xFF3F0300);
+const secondary = Color(0xFF775650);
+const onSecondary = Color(0xFFFFFFFF);
+const secondaryContainer = Color(0xFFFFDAD3);
+const onSecondaryContainer = Color(0xFF2C1511);
+const error = Color(0xFFBA1A1A);
+const errorContainer = Color(0xFFFFDAD6);
+const onError = Color(0xFFFFFFFF);
+const onErrorContainer = Color(0xFF410002);
+const background = Color(0xFFFFFBFF);
+const onBackground = Color(0xFF201A19);
+const surface = Color(0xFFFFFBFF);
+const onSurface = Color(0xFF201A19);
+const surfaceconstiant = Color(0xFFF5DDD9);
+const onSurfaceconstiant = Color(0xFF534340);
+const outline = Color(0xFF857370);
+const onInverseSurface = Color(0xFFFBEEEB);
+const inverseSurface = Color(0xFF362F2D);
+const inversePrimary = Color(0xFFFFB4A6);
+const shadow = Color(0xFF000000);
